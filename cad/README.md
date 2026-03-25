@@ -10,6 +10,11 @@ Esta carpeta contiene los modelos 3D del aterrizador.
 | `goliat-son.stl` | Exportación STL para visualización rápida |
 | `renders/` | Capturas de pantalla del diseño |
 
+## Estado actual
+
+🔲 Modelo en desarrollo  
+🔲 Versión inicial pendiente (se subirá cuando esté lista)
+
 ## Estructura sugerida del modelo
 
 | Componente | Nivel de detalle inicial |
@@ -21,11 +26,6 @@ Esta carpeta contiene los modelos 3D del aterrizador.
 | **Thrusters** | 8 pequeños alrededor del cuerpo |
 | **Tren de aterrizaje** | 4 patas plegables con amortiguadores |
 | **Escudo térmico** | Base abatible inferior |
-
-## Estado
-
-🔲 Modelo en desarrollo  
-🔲 Versión inicial pendiente
 
 ## Herramientas recomendadas
 
