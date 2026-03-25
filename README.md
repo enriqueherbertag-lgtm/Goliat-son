@@ -12,7 +12,7 @@ Goliat-Son es un módulo de aterrizaje diseñado para ser utilizado en múltiple
 | Respaldo atmosférico | LH₂ | O₂ atmosférico | 380 s | Superficie marciana, ahorro de LOX |
 | Modo superficie | LH₂ | O₂ de tanques o atmosférico | Variable | Operaciones en base |
 
-**Ventaja:** En Marte, el O₂ atmosférico se produce con En Marte, el O₂ atmosférico se produce con torres **[ShieldAir-Mars](https://github.com/enriqueherbertag-lgtm/ShieldAir-Mars)** a partir del CO₂ (95% de la atmósfera). Goliat-Son puede reabastecer sus tanques de O₂ o usar turbinas que toman aire directamente.
+**Ventaja:** En Marte, el O₂ atmosférico se produce con torres **[ShieldAir-Mars](https://github.com/enriqueherbertag-lgtm/ShieldAir-Mars)** a partir del CO₂ (95% de la atmósfera). Goliat-Son puede reabastecer sus tanques de O₂ o usar turbinas que toman aire directamente.
 
 ## Especificaciones
 
@@ -86,7 +86,7 @@ En la misión Odiseo a Marte, Goliat-Son:
 - Aterriza en superficie, despliega base marciana.
 - Puede reabastecerse con combustible producido in situ y volver a órbita.
 
-[Ver arquitectura completa de Odiseo](https://github.com/enriqueherbertag-lgtm/Odiseo)
+🔗 [Ver arquitectura completa de Odiseo](https://github.com/enriqueherbertag-lgtm/Odiseo)
 
 ## Licencia
 
