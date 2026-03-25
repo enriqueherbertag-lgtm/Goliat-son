@@ -86,7 +86,7 @@ En la misión Odiseo a Marte, Goliat-Son:
 - Aterriza en superficie, despliega base marciana.
 - Puede reabastecerse con combustible producido in situ y volver a órbita.
 
-🔗 [Ver arquitectura completa de Odiseo](https://github.com/enriqueherbertag-lgtm/Odiseo)
+[Ver arquitectura completa de Odiseo](https://github.com/enriqueherbertag-lgtm/Odiseo)
 
 ## Licencia
 
