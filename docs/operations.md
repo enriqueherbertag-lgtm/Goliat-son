@@ -1,6 +1,6 @@
 # Operaciones de Goliat-Son
 
-## Delta-v de descenso (órbita baja → superficie)
+## Delta-v de descenso (órbita baja → superficie marciana)
 
 | Fase | Delta-v (m/s) | Notas |
 |------|---------------|-------|
@@ -10,14 +10,32 @@
 | Aterrizaje propulsivo | 450 | Frenado final con motores |
 | **Total** | **~600 m/s** | (desde órbita baja marciana) |
 
-## Protección durante aterrizaje
+*Nota: Este delta-v es significativamente menor que un aterrizaje totalmente propulsivo (~2,100 m/s) gracias al uso de escudo térmico y paracaídas.*
 
-| Fase | Protección |
-|------|------------|
-| **Entrada atmosférica** | Escudo térmico ablativo (PICA) resiste hasta 2,500°C |
-| **Despliegue paracaídas** | Paracaídas supersónico de alta resistencia |
-| **Aterrizaje propulsivo** | Los motores levantan polvo; el tren de aterrizaje tiene protecciones contra abrasión |
-| **Operación en superficie** | Compuertas y sellos herméticos protegen componentes internos del polvo marciano |
+## Propelente para aterrizaje
+
+| Parámetro | Valor |
+|-----------|-------|
+| Masa total al inicio del descenso | 42,800 kg |
+| Masa de propelente consumido en descenso | ~2,000 kg (LH₂ + LOX) |
+| Masa al toque de suelo | 40,800 kg |
+
+## Autonomía en superficie
+
+| Modo | Duración | Condiciones |
+|------|----------|-------------|
+| **Base (modo estándar)** | 30 días | Sin reabastecimiento externo |
+| **Expandido** | Indefinida | Con reabastecimiento de O₂ por torres ShieldAir y H₂ por electrólisis |
+| **Modo emergencia** | 90 días | Consumibles reducidos, sin movilidad |
+
+## Reabastecimiento en superficie
+
+| Recurso | Producción diaria (2 torres ShieldAir) | Tiempo para reabastecer Goliat-Son |
+|---------|----------------------------------------|-----------------------------------|
+| O₂ líquido | 1,600 kg | ~6 días (para 10,000 kg) |
+| H₂ líquido | 100 kg (por electrólisis) | ~30 días (para 3,000 kg) |
+
+*Nota: Para la primera misión, Goliat-Son lleva suficiente propelente para volver a órbita sin depender de producción local. El reabastecimiento es para misiones posteriores.*
 
 ## Secuencia de aterrizaje detallada
 
@@ -30,14 +48,14 @@
 | **5. Encendido motores** | 2 km | 100 m/s | Motores principales al 50% |
 | **6. Aterrizaje** | 0 m | 0 m/s | Reducción progresiva de empuje, patas desplegadas |
 
-## Adaptación a la atmósfera marciana
+## Protección durante aterrizaje
 
-| Factor | Impacto | Mitigación |
-|--------|---------|------------|
-| **Frenado aerodinámico** | Ahorra ~450 m/s de delta-v | Uso de escudo térmico y paracaídas supersónico |
-| **Isp reducido en superficie** | 450 s → 380 s | Motores sobredimensionados compensan |
-| **Polvo levantado en aterrizaje** | Abrasión y obstrucción | Tren de aterrizaje alto, protecciones en motores |
-| **Producción de O₂** | LOX disponible desde CO₂ atmosférico | Torres ShieldAir integradas en la carga útil |
+| Fase | Protección |
+|------|------------|
+| **Entrada atmosférica** | Escudo térmico ablativo (PICA) resiste hasta 2,500°C |
+| **Despliegue paracaídas** | Paracaídas supersónico de alta resistencia |
+| **Aterrizaje propulsivo** | Los motores levantan polvo; el tren de aterrizaje tiene protecciones contra abrasión |
+| **Operación en superficie** | Compuertas y sellos herméticos protegen componentes internos del polvo marciano |
 
 ## Tren de aterrizaje
 
