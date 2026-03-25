@@ -23,6 +23,8 @@ En superficie marciana, Goliat-Son puede operar con **oxígeno atmosférico** pr
 ## Configuración de motores para aterrizaje
 
 | Maniobra | Motores usados | Empuje total | Duración |
+
+🔗 [ShieldAir-Mars](https://github.com/enriqueherbertag-lgtm/ShieldAir-Mars)
 |----------|----------------|--------------|----------|
 | **Desorbitación** | 4 principales (50%) | 240 kN | 30 s |
 | **Frenado aerodinámico** | Ninguno | — | 60–90 s |
