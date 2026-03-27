@@ -1,5 +1,7 @@
 # Goliat-Son
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 **Aterrizador autónomo ajustable para cargas pesadas y tripulación.**
 
 Goliat-Son es un módulo de aterrizaje diseñado para ser utilizado en múltiples contextos: desde misiones autónomas de exploración hasta como **Módulo de Carga y Transporte (MCT)** de la nave **Odiseo**.
