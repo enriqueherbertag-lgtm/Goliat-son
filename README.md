@@ -90,10 +90,6 @@ En la misión Odiseo a Marte, Goliat-Son:
 
 🔗 [Ver arquitectura completa de Odiseo](https://github.com/enriqueherbertag-lgtm/Odiseo)
 
-## Licencia
-
-Apache 2.0 con restricción de uso comercial.
-
 ## Autor
 
 **Enrique Aguayo H.**  
