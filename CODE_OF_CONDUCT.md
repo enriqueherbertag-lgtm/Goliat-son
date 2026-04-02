@@ -1,9 +1,3 @@
-
----
-
-### `CODE_OF_CONDUCT.md`
-
-```markdown
 # Código de Conducta para Colaboradores
 
 ## Nuestro Compromiso
